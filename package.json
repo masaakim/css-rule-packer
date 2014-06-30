@@ -1,5 +1,5 @@
 {
-  "name": "css-rule-unity",
+  "name": "css-rule-packer",
   "version": "0.0.1",
   "description": "Pack same CSS rules into one rule",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/morishitter/css-rule-unity/git"
+    "url": "git://github.com/morishitter/css-rule-packer/git"
   },
   "keywords": ["css","optimization","postcss"],
   "author": "Masaaki Morishita",
